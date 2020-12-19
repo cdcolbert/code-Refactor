@@ -19,7 +19,7 @@ technologies.
 ![Example screenshot](./readme-images/screenshot2.png)
 
 ## Code Examples
-Show examples of usage:
+Examples of usage:
 `<section class="content">
             <article class="seo-orm-smm" id="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
