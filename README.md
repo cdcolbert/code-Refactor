@@ -20,8 +20,7 @@ technologies.
 
 ## Code Examples
 Show examples of usage:
-`
-        <section class="content">
+`<section class="content">
             <article class="seo-orm-smm" id="search-engine-optimization">
                 <img src="./assets/images/search-engine-optimization.jpg" class="float-left" />
                 <h2>Search Engine Optimization</h2>
@@ -43,9 +42,7 @@ Show examples of usage:
                     Social media continues to have a sizable influence on buying habits. Social media marketing helps you determine which platforms are suited to your brand, using analytics to find the right markets and increase your lead generation.
                 </p>
             </article>
-        </section>
-
-`
+        </section>`
 
 ## Features
 List of features ready and TODOs for future development
